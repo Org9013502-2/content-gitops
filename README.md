@@ -6,4 +6,4 @@
 This repository is a resource provided for Linux Academy students taking the hands-on GitIOps course.
 
 
-GOD is Great ! MANISH 
+GOD is Great ! MANISH  NOT FOR THIS BRANCH
